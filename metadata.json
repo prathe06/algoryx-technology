@@ -1,0 +1,6 @@
+{
+  "name": "ALGORYX | Digital Innovation & Creative Technology",
+  "description": "Scroll-based animated landing page for ALGORYX, a digital innovation company crafting modern web experiences, spatial systems, and creative technology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
